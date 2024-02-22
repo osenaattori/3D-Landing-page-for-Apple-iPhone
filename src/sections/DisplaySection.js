@@ -159,18 +159,12 @@ const DisplaySection = () => {
         Immersive <br /> Display
       </MainTitle>
       <TextBlockRight>
-        <Title>Super Ratine XDR Display</Title>
-        <Text>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-          Necessitatibus dignissimos ipsam.
-        </Text>
+        <Title>Super GAY AHH XDR Display</Title>
+        <Text>teemus tiny cock really nga</Text>
       </TextBlockRight>
       <TextBlockLeft ref={container}>
-        <Title>Big is better</Title>
-        <Text>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-          Necessitatibus dignissimos ipsam.
-        </Text>
+        <Title>Big is better thanks to teemu</Title>
+        <Text>coc nigger</Text>
       </TextBlockLeft>
 
       <TextContainer>

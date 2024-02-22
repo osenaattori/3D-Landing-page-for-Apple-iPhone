@@ -102,7 +102,9 @@ const Quote = () => {
       <TextContainer>
         <Text delay="0s">
           {" "}
-          <span>&#8220; You can't connect the dots looking forward;</span>{" "}
+          <span>
+            &#8220; You can't connect suck a nga dick if u aint gay g;
+          </span>{" "}
         </Text>
         <Text delay="0.4s">
           {" "}
